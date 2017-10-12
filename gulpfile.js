@@ -14,7 +14,7 @@ let assetsMemory = ''
 let needReplaceRules = [
   {
     match: 'width:600px',
-    replacement: 'width:900px'
+    replacement: 'width:800px'
   }
 ]
 
@@ -31,7 +31,7 @@ gulp.task('inject-css', ['get-css'], () => {
   let stableCssCode = `#outlook a { padding: 0; }`
   let needInjectCss = `${stableCssCode}\n${assetsMemory}`
 
-  return gulp.src('./src/*.html')
+  return gulp.src('./build/*.html')
     .pipe(replaceTask({
       patterns: needReplaceRules,
       usePrefix: false

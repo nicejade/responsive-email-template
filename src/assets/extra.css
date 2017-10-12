@@ -1,47 +1,8 @@
-.content-entity {
-  border-collapse: collapse;
-  font-weight: 300;
-}
-
-.content-entity table tr {
-  height: 36px;
-}
-
-.tag-danger {
-  display: inline-block;
-  background-color: rgba(255, 73, 73, .1);
-  border-radius: 4px;
-  padding: 0 5px;
-  margin-left: 10px;
-  border: 1px solid rgba(255, 73, 73, .2);
-  color: #ff4949;
-}
-
-.tag-warning {
-  display: inline-block;
-  background-color: rgba(247, 186, 41, .1);
-  border-radius: 4px;
-  padding: 0 5px;
-  margin-left: 10px;
-  border: 1px solid rgba(247, 186, 41, .2);
-  color: #f7ba2a;
-}
-
-.tag-success {
-  display: inline-block;
-  background-color: rgba(18, 206, 102, .1);
-  border-radius: 4px;
-  padding: 0 5px;
-  margin-left: 10px;
-  border: 1px solid rgba(18, 206, 102, .2);
-  color: #13ce66;
-}
-
 a {
   text-decoration: none;
   border: 0;
   outline: none;
-  color: #44A8F2;
+  color: #44A8F2 !important;
 }
 
 table > tbody > tr > th {
