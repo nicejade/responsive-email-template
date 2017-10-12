@@ -2,14 +2,20 @@
   <mj-body background-color="#FFFFFF">
     <mj-container background-color="#FFFFFF">
       <mj-section padding-top="0" padding-bottom="0">
-        <mj-column background-color="#44A8F2">
-          <mj-image width="267" src="" alt="NICE LINKS">
+        <mj-column background-color="#444555">
+          <mj-image width="213" src="https://raw.githubusercontent.com/nicejade/responsive-email-template/master/src/assets/logo.png" alt="NICE LINKS">
           </mj-image>
         </mj-column>
       </mj-section>
       <mj-section background-color="#F4F6F8" padding-bottom="0">
         <mj-column>
           <mj-text font-size="20px">#Title#</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#F4F6F8" padding-bottom="0">
+        <mj-column>
+          <mj-image width="213" src="https://raw.githubusercontent.com/nicejade/responsive-email-template/master/src/assets/page.png" alt="NICE LINKS">
+          </mj-image>
         </mj-column>
       </mj-section>
       <mj-section background-color="#F4F6F8">
