@@ -24,6 +24,7 @@ gulp.task('default', ['watch'])
 
 It can help you make mail templates like write a web page. but you have to support responsive by yourself. oh, opps. You may be very helpless until you meet her before. [mjml](https://mjml.io/), She may be your savior, for how to make a simple set of mail templates. A fly in the ointment ，she also has some problems. So, I provided this tool so that you can use her more easily.
 
+![responsive-email-template](https://raw.githubusercontent.com/nicejade/responsive-email-template/master/src/assets/awesomeScreenshot.gif)
 
 ```
 git clone https://github.com/nicejade/responsive-email-template
