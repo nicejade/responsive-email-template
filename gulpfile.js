@@ -14,7 +14,7 @@ let assetsMemory = ''
 let needReplaceRules = [
   {
     match: 'width:600px',
-    replacement: 'width:800px'
+    replacement: 'width:666px'
   }
 ]
 

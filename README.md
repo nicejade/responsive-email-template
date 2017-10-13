@@ -5,6 +5,8 @@
 
 ![responsive-email-template](https://raw.githubusercontent.com/nicejade/responsive-email-template/master/src/assets/awesomeScreenshot.gif)
 
+## **Story & Background**
+
 When all you need is a really simple responsive HTML email template, you can do like this: [responsive-html-email-template](https://github.com/leemunroe/responsive-html-email-template). It looks really simple, But it is not simple and unfriendly to do it. Of course you can use some tools，such as `gulp` & `gulp-inline-css`. The code is as follows：
 
 ```js
@@ -31,23 +33,30 @@ git clone https://github.com/nicejade/responsive-email-template
 npm i (yarn)
 ./node_modules/.bin/mjml --watch src/index.mjml -o src/index.html
 
-gulp (If you need extra style)
+gulp // If you need custom style to support dynamic content.
 ```
 
-## More Links
+## **Advantage**
+- **Easy and quick**: Write less code, save time and code more efficiently with MJML’s semantic syntax.
+- **Responsive**: MJML is responsive by design on most-popular email clients, even Outlook.
+- **Component based**: Write high-level code thanks to reusable and extensible components.
+- **Support for customization**: Replace the mjmi default style by gulp.
+- **Dynamic support**: Introduce custom styles to support dynamic content by gulp.
+
+## **More Links**
 - [Try it live](https://mjml.io/try-it-live)
 - [Responsive Email Templates](https://mjml.io/templates)
 - [Mjml Resources](https://mjml.io/resources)
 - [How to Code HTML Email Newsletters](https://www.sitepoint.com/how-to-code-html-email-newsletters/)
 
-## About Me
+## **About Me**
 - [个人博客](https://jeffjade.com/Links)
 - [新浪微博](http://weibo.com/jeffjade)
 - [知乎主页](https://www.zhihu.com/people/yang-qiong-pu/)
 - [Twitter](https://twitter.com/jeffjade2)
 - [Facebook](https://www.facebook.com/yang.gang.jade)
 
-## License
+## **License**
 
 [MIT](http://opensource.org/licenses/MIT)
 
