@@ -14,7 +14,13 @@
       </mj-section>
       <mj-section background-color="#F4F6F8" padding-bottom="0">
         <mj-column>
-          <mj-image src="https://raw.githubusercontent.com/nicejade/responsive-email-template/master/src/assets/page.png" alt="NICE LINKS">
+          <mj-image src="https://raw.githubusercontent.com/nicejade/responsive-email-template/master/src/assets/sample01.png" alt="NICE LINKS">
+          </mj-image>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#F4F6F8" padding-bottom="0">
+        <mj-column>
+          <mj-image src="https://raw.githubusercontent.com/nicejade/responsive-email-template/master/src/assets/sample02.png" alt="NICE LINKS">
           </mj-image>
         </mj-column>
       </mj-section>

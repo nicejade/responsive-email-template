@@ -31,14 +31,14 @@ gulp.task('inject-css', ['get-css'], () => {
   let stableCssCode = `#outlook a { padding: 0; }`
   let needInjectCss = `${stableCssCode}\n${assetsMemory}`
 
-  return gulp.src('./build/*.html')
+  return gulp.src('./src/*.html')
     .pipe(replaceTask({
       patterns: needReplaceRules,
       usePrefix: false
     }))
     .pipe(replace(stableCssCode, needInjectCss))
     .pipe(minifyHtml({empty: true}))
-    .pipe(gulp.dest('./build/'))
+    .pipe(gulp.dest('./dist/'))
 })
 
 gulp.task('default', ['inject-css'])
