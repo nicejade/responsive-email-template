@@ -2,42 +2,62 @@
   <mj-body background-color="#FFFFFF">
     <mj-container background-color="#FFFFFF">
       <mj-section padding-top="0" padding-bottom="0">
-        <mj-column background-color="#444555">
-          <mj-text font-size="20px">Welcome To <a style="color:#29b6f6;" href="https://nicelinks.site">倾城之链 | NICE LINKS</a></mj-text>
-          </mj-image>
+        <mj-column width="100%" background-color="#F4F6F8" padding-left="0">
+          <mj-text padding-left="0" padding-right="0">
+            <a style="color:#29b6f6;" href="https://nicelinks.site">
+              <p style="width:100%;">
+                <img src="https://image.nicelinks.site/galaxy.png" style="width:100%"/>
+              </p>
+            </a>
+          </mj-text>
         </mj-column>
       </mj-section>
-      <mj-section background-color="#F4F6F8" padding-bottom="0">
+      <mj-section background-color="#F4F6F8" padding-bottom="0" padding-top="0">
         <mj-column>
           <mj-text font-size="20px">Welcome To <a style="color:#29b6f6;" href="https://nicelinks.site">NiceLinks</a></mj-text>
         </mj-column>
       </mj-section>
-      <mj-section background-color="#F4F6F8" padding-bottom="0">
-        <mj-column>
-          <mj-text font-size="16px">Collect excellent websites as much as possible so that people can see and learn more interesting things.</mj-text>
-          <mj-text font-size="16px">尽可能收集优秀的网站，让人们可以见识和学习更多有趣的事物。</mj-text>
-          </mj-image>
-        </mj-column>
-      </mj-section>
-      <mj-section background-color="#F4F6F8">
+      <mj-section background-color="#F4F6F8" padding-bottom="0" padding-top="0">
         <mj-column>
           <mj-text align="center" color="#37302d">
-            <table cellpadding="0" cellspacing="0" style="width:100%;text-align: left;">
-              <tr>
-                <td class="content-entity">
-                  <left>
-                    #Body#
-                  </left>
-                </td>
-              </tr>
-            </table>
+            <h3>#TITLE#</h3>
+            <p style="width:100%;text-align:left;color:#4f5555">#DESC#</p>
+          </mj-text>
+          <mj-button background-color="#414141" color="#FFFFFF" font-size="15px" align="center"
+            vertical-align="middle" border="none" padding="15px 30px" border-radius="3px"
+            href="#LINK#" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif"
+            padding-left="25" padding-right="25" padding-bottom="10" padding-top="10">#BUTTON#
+          </mj-button>
+          <mj-text font-size="16px" padding-bottom="0">
+            <p style="border-bottom: 1px dashed #dcdcdc;margin-bottom:0px"></p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#F4F6F8" padding-bottom="0" padding-top="0">
+        <mj-column>
+          <mj-text font-size="16px">Collect excellent websites as much as possible so that people can see and learn more interesting things.</mj-text>
+          <mj-text font-size="16px">尽可能收集优秀的网站，让人们可以见识和学习更多有趣的事物。
+            <p style="border-bottom: 1px dashed #dcdcdc;margin-bottom:0px"></p>
           </mj-text>
         </mj-column>
       </mj-section>
       <mj-section background-color="#F4F6F8" padding="10px 0 20px 0">
         <mj-column>
-          <mj-text align="center" color="#9B9B9B" font-size="14px"><a href="https://nicelinks.site" style="color: #9B9B9B;">倾城之链</a>：云集世间优秀站点<br>Copyright © 2017 nicelinks.com<br>
-            <a href="https://jeffjade.com/About/" style="color: #9B9B9B; text-decoration:none;">Made by nicejade</a>
+          <mj-text align="center" color="#9B9B9B" font-size="14px">
+            <a style="text-shadow:1px 1px #fff;color: #999; text-decoration:none;" href="https://nicelinks.site">
+              倾城之链
+            </a>
+            <span style="text-shadow:1px 1px #fff;color: #999; text-decoration:none;">
+              ：云集世间优秀站点
+            </span>
+            <br>
+            <span style="text-shadow:1px 1px #fff;color: #999; text-decoration:none;">
+              Copyright © 2017 nicelinks.com
+            </span>
+            <br>
+            <a style="text-shadow:1px 1px #fff;color: #999; text-decoration:none;" href="https://jeffjade.com/About/">
+              Made by 晚晴幽草轩轩主
+            </a>
           </mj-text>
         </mj-column>
       </mj-section>
