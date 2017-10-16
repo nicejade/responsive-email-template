@@ -31,7 +31,7 @@ It can help you make mail templates like write a web page. but you have to suppo
 ```bash
 git clone https://github.com/nicejade/responsive-email-template
 npm i (yarn)
-./node_modules/.bin/mjml --watch src/index.mjml -o src/index.html
+./node_modules/.bin/mjml --watch src/index.mjml -o dist/index.html
 
 gulp // If you need custom style to support dynamic content.
 ```

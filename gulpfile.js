@@ -22,6 +22,7 @@ gulp.task('get-css', () => {
   return gulp.src(['./src/assets/*.css'], {read: true})
   .pipe(cleanCss({compatibility: 'ie8'}))
   .pipe(concat('mixing.css'))
+  .pipe(minifyHtml({empty: true}))
   .pipe(gulpTap(file => {
     assetsMemory += file.contents.toString()
   }))
@@ -31,11 +32,12 @@ gulp.task('inject-css', ['get-css'], () => {
   let stableCssCode = `#outlook a { padding: 0; }`
   let needInjectCss = `${stableCssCode}\n${assetsMemory}`
 
-  return gulp.src('./src/*.html')
+  return gulp.src('./dist/*.html')
     .pipe(replaceTask({
       patterns: needReplaceRules,
       usePrefix: false
     }))
+    .pipe(replace(`${assetsMemory}\n`, ''))
     .pipe(replace(stableCssCode, needInjectCss))
     .pipe(minifyHtml({empty: true}))
     .pipe(gulp.dest('./dist/'))
