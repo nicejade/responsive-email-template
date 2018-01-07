@@ -32,8 +32,23 @@ It can help you make mail templates like write a web page. but you have to suppo
 git clone https://github.com/nicejade/responsive-email-template
 npm i (yarn)
 ./node_modules/.bin/mjml --watch src/index.mjml -o dist/index.html
-
 gulp // If you need custom style to support dynamic content.
+```
+
+**note:** In order to operate easily, you can also use the following methods to run [mjml](https://mjml.io/):
+
+**Or with the shortcut using `npm bin`**
+
+```
+$(npm bin)/mjml --watch src/index.mjml -o dist/index.html
+```
+
+**Or by using [npx](https://github.com/zkat/npx)**
+
+note: [npx](https://github.com/zkat/npx) is included with `npm > v5.2` or can be installed separately.
+
+```
+npx mjml --watch src/index.mjml -o dist/index.html
 ```
 
 ## **Advantage**
