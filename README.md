@@ -51,7 +51,10 @@ note: [npx](https://github.com/zkat/npx) is included with `npm > v5.2` or can be
 npx mjml --watch src/index.mjml -o dist/index.html
 ```
 
+For more information on how to execute binary files in NPM packages, see :[执行 npm 包的二进制文件](https://jeffjade.com/2017/12/30/135-npm-vs-yarn-detial-memo/#%E6%89%A7%E8%A1%8C-npm-%E5%8C%85%E7%9A%84%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%96%87%E4%BB%B6) please.
+
 ## **Advantage**
+
 - **Easy and quick**: Write less code, save time and code more efficiently with MJML’s semantic syntax.
 - **Responsive**: MJML is responsive by design on most-popular email clients, even Outlook.
 - **Component based**: Write high-level code thanks to reusable and extensible components.
@@ -59,15 +62,22 @@ npx mjml --watch src/index.mjml -o dist/index.html
 - **Dynamic support**: Introduce custom styles to support dynamic content by gulp.
 
 ## **More Links**
+
 - [Try it live](https://mjml.io/try-it-live)
 - [Responsive Email Templates](https://mjml.io/templates)
 - [Mjml Resources](https://mjml.io/resources)
 - [How to Code HTML Email Newsletters](https://www.sitepoint.com/how-to-code-html-email-newsletters/)
 
 ## **About Me**
-- [个人博客](https://jeffjade.com/Links)
+
+- [**倾城之链**](https://nicelinks.site?from=github)
+- [About Me](https://about.me/nicejade)
+- [个人博客](https://jeffjade.com/nicelinks)
+- [辅助博客](https://blog.lovejade.cn/)
 - [新浪微博](http://weibo.com/jeffjade)
 - [知乎主页](https://www.zhihu.com/people/yang-qiong-pu/)
+- [简书主页](http://www.jianshu.com/u/9aae3d8f4c3d)
+- [SegmentFault](https://segmentfault.com/u/jeffjade)
 - [Twitter](https://twitter.com/jeffjade2)
 - [Facebook](https://www.facebook.com/yang.gang.jade)
 
