@@ -1,9 +1,9 @@
-<h1 align="center">responsive-email-template</h1>
+<h1 align="center">Responsive Email Template</h1>
 
 >Make better response mail templates Through [mjml](https://github.com/mjmlio/mjml).
 [mjml](https://mjml.io/): The only framework that makes responsive email easy
 
-![responsive-email-template](https://raw.githubusercontent.com/nicejade/responsive-email-template/master/src/assets/awesomeScreenshot.gif)
+![Responsive Email Template](https://cdn.jsdelivr.net/gh/nicejade/responsive-email-template/src/assets/awesomeScreenshot.gif)
 
 ## **Story & Background**
 
