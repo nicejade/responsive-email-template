@@ -4,9 +4,9 @@
       <mj-section padding-top="0" padding-bottom="0">
         <mj-column width="100%" background-color="#F4F6F8">
           <mj-text padding-left="0" padding-right="0">
-            <a style="color:#29b6f6;" href="https://nicelinks.site">
+            <a style="color:#29b6f6;" href="https://nicelinks.site?utm_source=email-recommend">
               <p style="width:100%;">
-                <img src="https://image.nicelinks.site/nicelinks-popularize.png" alt="倾城之链 | NICE LINKS" style="width:100%"/>
+                <img src="https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-Banner.png" alt="倾城之链 | NICE LINKS" style="width:100%"/>
               </p>
             </a>
           </mj-text>
@@ -16,12 +16,52 @@
         <mj-column>
           <mj-text align="center" color="#37302d">
             <h1>倾城之链 | NICE LINKS</h1>
-            <p style="width:100%;text-align:left;color:#4f5555">#DESC#</p>
+            <p style="width:100%;text-align:left;color:#4f5555">敬爱的「倾友」们，最近一周，「倾城」有新添如下优质网站，与您分享：</p>
+          </mj-text>
+          <mj-text padding-left="50" padding-right="50" padding-bottom="0" padding-top="0">
+            <a style="color:#29b6f6;font-size: 14px;" href="#HREF-1#">
+              #TITLE-1#
+            </a>
+            <p style="width:100%;margin-top:0;font-size: 12px;color: #4f5555;">
+              #DESC-1#
+            </p>
+          </mj-text>
+          <mj-text padding-left="50" padding-right="50" padding-bottom="0" padding-top="0">
+            <a style="color:#29b6f6;font-size: 14px;" href="#HREF-2#">
+              #TITLE-2#
+            </a>
+            <p style="width:100%;margin-top:0;font-size: 12px;color: #4f5555;">
+              #DESC-2#
+            </p>
+          </mj-text>
+          <mj-text padding-left="50" padding-right="50" padding-bottom="0" padding-top="0">
+            <a style="color:#29b6f6;font-size: 14px;" href="#HREF-3#">
+              #TITLE-3#
+            </a>
+            <p style="width:100%;margin-top:0;font-size: 12px;color: #4f5555;">
+              #DESC-3#
+            </p>
+          </mj-text>
+          <mj-text padding-left="50" padding-right="50" padding-bottom="0" padding-top="0">
+            <a style="color:#29b6f6;font-size: 14px;" href="#HREF-4#">
+              #TITLE-4#
+            </a>
+            <p style="width:100%;margin-top:0;font-size: 12px;color: #4f5555;">
+              #DESC-4#
+            </p>
+          </mj-text>
+          <mj-text padding-left="50" padding-right="50" padding-bottom="0" padding-top="0">
+            <a style="color:#29b6f6;font-size: 14px;" href="#HREF-5#">
+              #TITLE-5#
+            </a>
+            <p style="width:100%;margin-top:0;font-size: 12px;color: #4f5555;">
+              #DESC-5#
+            </p>
           </mj-text>
           <mj-button background-color="#414141" color="#FFFFFF" font-size="15px" align="center"
             vertical-align="middle" border="none" padding="15px 30px" border-radius="3px"
-            href="#LINK#" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif"
-            padding-left="25" padding-right="25" padding-bottom="10" padding-top="10">#BUTTON#
+            href="https://nicelinks.site/explore/all?sort=latest&utm_source=email-recommend" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif"
+            padding-left="25" padding-right="25" padding-bottom="10" padding-top="10">访问「倾城」
           </mj-button>
           <mj-text font-size="16px" padding-bottom="0">
             <p style="border-bottom: 1px dashed #dcdcdc;margin-bottom:0px"></p>

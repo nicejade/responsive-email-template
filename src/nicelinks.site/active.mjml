@@ -1,0 +1,62 @@
+ <mjml>
+  <mj-body background-color="#FFFFFF">
+    <mj-container background-color="#FFFFFF">
+      <mj-section padding-top="0" padding-bottom="0">
+        <mj-column width="100%" background-color="#F4F6F8">
+          <mj-text padding-left="0" padding-right="0">
+            <a style="color:#29b6f6;" href="https://nicelinks.site">
+              <p style="width:100%;">
+                <img src="https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-Banner.png" alt="倾城之链 | NICE LINKS" style="width:100%"/>
+              </p>
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#F4F6F8" padding-bottom="0" padding-top="0">
+        <mj-column>
+          <mj-text align="center" color="#37302d">
+            <h1>倾城之链 | NICE LINKS</h1>
+            <p style="width:100%;text-align:left;color:#4f5555">#DESC#</p>
+          </mj-text>
+          <mj-button background-color="#414141" color="#FFFFFF" font-size="15px" align="center"
+            vertical-align="middle" border="none" padding="15px 30px" border-radius="3px"
+            href="#LINK#" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif"
+            padding-left="25" padding-right="25" padding-bottom="10" padding-top="10">#BUTTON#
+          </mj-button>
+          <mj-text font-size="16px" padding-bottom="0">
+            <p style="border-bottom: 1px dashed #dcdcdc;margin-bottom:0px"></p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#F4F6F8" padding-bottom="0" padding-top="0">
+        <mj-column>
+          <mj-text font-size="16px">倾城之链，作为一个开放平台，旨在云集全球优秀网站，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
+          </mj-text>
+          <mj-text font-size="16px">NICE LINKS, as an open platform, is designed to gather around the world's excellent websites to explore the wider world of the Internet; Here, you can easily find, learn, and share more useful or interesting things.
+            <p style="border-bottom: 1px dashed #dcdcdc;margin-bottom:0px"></p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#F4F6F8" padding="10px 0 20px 0">
+        <mj-column>
+          <mj-text align="center" color="#9B9B9B" font-size="14px">
+            <a style="text-shadow:1px 1px #fff;color: #999; text-decoration:none;" href="https://nicelinks.site">
+              倾城之链
+            </a>
+            <span style="text-shadow:1px 1px #fff;color: #999; text-decoration:none;">
+              ：云集世间优秀站点
+            </span>
+            <br>
+            <span style="text-shadow:1px 1px #fff;color: #999; text-decoration:none;">
+              Copyright © 2017-2018 nicelinks.com
+            </span>
+            <br>
+            <a style="text-shadow:1px 1px #fff;color: #999; text-decoration:none;" href="https://jeffjade.com/About/">
+              Made by 晚晴幽草轩轩主
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-container>
+  </mj-body>
+</mjml>
