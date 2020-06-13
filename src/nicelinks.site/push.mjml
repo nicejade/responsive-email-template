@@ -4,9 +4,9 @@
       <mj-section padding-top="0" padding-bottom="0">
         <mj-column width="100%" background-color="#F4F6F8">
           <mj-text padding-left="0" padding-right="0">
-            <a style="color:#29b6f6;" href="https://nicelinks.site?utm_source=email-recommend">
+            <a style="color:#2edfa3;" href="https://nicelinks.site?utm_source=email-recommend">
               <p style="width:100%;">
-                <img src="https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-Banner.png" alt="倾城之链 | NICE LINKS" style="width:100%"/>
+                <img src="https://s1.ax1x.com/2020/06/13/tvs7NQ.png" alt="倾城之链 | NICE LINKS" style="width:100%"/>
               </p>
             </a>
           </mj-text>
@@ -16,46 +16,54 @@
         <mj-column>
           <mj-text align="center" color="#37302d">
             <h1>倾城之链 | NICE LINKS</h1>
-            <p style="width:100%;text-align:left;color:#4f5555">敬爱的「倾友」们，最近一周，「倾城」有新添如下优质网站，与您分享：</p>
+            <p style="width:100%;text-align:left;font-size: 14px;color:#4f5555">敬爱的「倾友」们，最近一周，「倾城」有新添如下优质网站，与您分享：</p>
           </mj-text>
           <mj-text padding-left="50" padding-right="50" padding-bottom="0" padding-top="0">
-            <a style="color:#29b6f6;font-size: 14px;" href="#HREF-1#">
+            <a style="color:#2edfa3;font-size: 16px;" href="#HREF-1#">
               #TITLE-1#
             </a>
-            <p style="width:100%;margin-top:0;font-size: 12px;color: #4f5555;">
+            <p style="width:100%;margin-top:0;font-size: 14px;color: #4f5555;">
               #DESC-1#
             </p>
           </mj-text>
           <mj-text padding-left="50" padding-right="50" padding-bottom="0" padding-top="0">
-            <a style="color:#29b6f6;font-size: 14px;" href="#HREF-2#">
+            <a style="color:#2edfa3;font-size: 16px;" href="#HREF-2#">
               #TITLE-2#
             </a>
-            <p style="width:100%;margin-top:0;font-size: 12px;color: #4f5555;">
+            <p style="width:100%;margin-top:0;font-size: 14px;color: #4f5555;">
               #DESC-2#
             </p>
           </mj-text>
           <mj-text padding-left="50" padding-right="50" padding-bottom="0" padding-top="0">
-            <a style="color:#29b6f6;font-size: 14px;" href="#HREF-3#">
+            <a style="color:#2edfa3;font-size: 16px;" href="#HREF-3#">
               #TITLE-3#
             </a>
-            <p style="width:100%;margin-top:0;font-size: 12px;color: #4f5555;">
+            <p style="width:100%;margin-top:0;font-size: 14px;color: #4f5555;">
               #DESC-3#
             </p>
           </mj-text>
           <mj-text padding-left="50" padding-right="50" padding-bottom="0" padding-top="0">
-            <a style="color:#29b6f6;font-size: 14px;" href="#HREF-4#">
+            <a style="color:#2edfa3;font-size: 16px;" href="#HREF-4#">
               #TITLE-4#
             </a>
-            <p style="width:100%;margin-top:0;font-size: 12px;color: #4f5555;">
+            <p style="width:100%;margin-top:0;font-size: 14px;color: #4f5555;">
               #DESC-4#
             </p>
           </mj-text>
           <mj-text padding-left="50" padding-right="50" padding-bottom="0" padding-top="0">
-            <a style="color:#29b6f6;font-size: 14px;" href="#HREF-5#">
+            <a style="color:#2edfa3;font-size: 16px;" href="#HREF-5#">
               #TITLE-5#
             </a>
-            <p style="width:100%;margin-top:0;font-size: 12px;color: #4f5555;">
+            <p style="width:100%;margin-top:0;font-size: 14px;color: #4f5555;">
               #DESC-5#
+            </p>
+          </mj-text>
+          <mj-text padding-left="50" padding-right="50" padding-bottom="0" padding-top="0">
+            <a style="color:#2edfa3;font-size: 16px;" href="#HREF-6#">
+              #TITLE-6#
+            </a>
+            <p style="width:100%;margin-top:0;font-size: 14px;color: #4f5555;">
+              #DESC-6#
             </p>
           </mj-text>
           <mj-button background-color="#414141" color="#FFFFFF" font-size="15px" align="center"
@@ -80,7 +88,7 @@
       <mj-section background-color="#F4F6F8" padding="10px 0 20px 0">
         <mj-column>
           <mj-text align="center" color="#9B9B9B" font-size="14px">
-            <a style="text-shadow:1px 1px #fff;color: #999; text-decoration:none;" href="https://nicelinks.site">
+            <a style="text-shadow:1px 1px #fff;color:#2edfa3;text-decoration:none;" href="https://nicelinks.site">
               倾城之链
             </a>
             <span style="text-shadow:1px 1px #fff;color: #999; text-decoration:none;">
@@ -91,7 +99,7 @@
               Copyright © 2017-2018 nicelinks.com
             </span>
             <br>
-            <a style="text-shadow:1px 1px #fff;color: #999; text-decoration:none;" href="https://jeffjade.com/About/">
+            <a style="text-shadow:1px 1px #fff;color:#2edfa3;text-decoration:none;" href="https://jeffjade.com/About/">
               Made by 晚晴幽草轩轩主
             </a>
           </mj-text>
