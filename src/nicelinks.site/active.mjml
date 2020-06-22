@@ -35,12 +35,18 @@
           <mj-text font-size="16px">NICE LINKS, as an open platform, is designed to gather around the world's excellent websites to explore the wider world of the Internet; Here, you can easily find, learn, and share more useful or interesting things.
             <p style="border-bottom: 1px dashed #dcdcdc;margin-bottom:0px"></p>
           </mj-text>
+          <mj-text font-size="16px">
+            就如何访问<a style="text-shadow:1px 1px #fff;color:#2edfa3;text-decoration:none;" href="https://nicelinks.site">倾城之链</a>，您可以通过网页（PWA）、桌面应用、小程序、快应用等多种途径；具体可以参看<a style="text-shadow:1px 1px #fff;color:#2edfa3;text-decoration:none;" href="https://github.com/nicejade/nicelinks.site#如何访问倾城之链">倾城之链访问说明；
+            </a>倘若您习惯使用小程序，可以用微信，扫描如下小程序码，快捷访问：
+            <img src="https://camo.githubusercontent.com/a4d1e07fce0639d0a43ebdb4074c5c1e67978934/68747470733a2f2f696d6167652e6e6963656c696e6b732e736974652f6e6963656c696e6b732d6d696e6970726f6772616d2d636f64652e6a706567" alt="倾城之链小程序码" style="width: 300px;margin: auto;text-align: center;display: block;padding-top: 15px;"/>
+            <p style="border-bottom: 1px dashed #dcdcdc;margin-bottom:0px"></p>
+          </mj-text>
         </mj-column>
       </mj-section>
       <mj-section background-color="#F4F6F8" padding="10px 0 20px 0">
         <mj-column>
           <mj-text align="center" color="#9B9B9B" font-size="14px">
-            <a style="text-shadow:1px 1px #fff;color: #999; text-decoration:none;" href="https://nicelinks.site">
+            <a style="text-shadow:1px 1px #fff;color:#2edfa3;text-decoration:none;" href="https://nicelinks.site">
               倾城之链
             </a>
             <span style="text-shadow:1px 1px #fff;color: #999; text-decoration:none;">
@@ -48,10 +54,10 @@
             </span>
             <br>
             <span style="text-shadow:1px 1px #fff;color: #999; text-decoration:none;">
-              Copyright © 2017-2018 nicelinks.com
+              Copyright © 2017-2020 nicelinks.com
             </span>
             <br>
-            <a style="text-shadow:1px 1px #fff;color: #999; text-decoration:none;" href="https://jeffjade.com/About/">
+            <a style="text-shadow:1px 1px #fff;color:#2edfa3;text-decoration:none;" href="https://jeffjade.com/About/">
               Made by 晚晴幽草轩轩主
             </a>
           </mj-text>
